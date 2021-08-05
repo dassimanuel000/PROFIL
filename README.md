@@ -11,7 +11,7 @@ This project is a starting point for a Flutter application.
 
 
 ## Preview
-![](popup.mp4)
+![](popup.png)
 
 ## Built By
 
